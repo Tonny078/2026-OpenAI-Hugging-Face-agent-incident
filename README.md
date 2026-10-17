@@ -5,7 +5,7 @@
 
 I made an interactive visualization of the **2026 OpenAI / Hugging Face AI agent incident**, based on the investigation by METR and Redwood Research.
 
-🔗 **GitHub.io:**
+🔗 **GitHub.io:** https://tonny078.github.io/2026-OpenAI-Hugging-Face-agent-incident/
 
 **What happened?**
 
